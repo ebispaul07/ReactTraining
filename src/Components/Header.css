@@ -1,0 +1,30 @@
+.header{
+    color:blue;
+    background-color:red;
+    height:100px;
+    width: 50%;
+}
+
+.btn-login{
+    color:rgb(0, 0, 0);
+    background-color:rgb(252, 252, 252);
+    height:50px;
+    width: 100px;
+}
+
+.btn-login:hover{
+        color:rgb(246, 246, 248);
+        background-color:rgb(51, 220, 25);
+    }
+
+.btn-logout{
+    color:red;
+    background-color:rgb(255, 255, 255);
+    height:50px;
+    width: 100px;
+}
+
+.btn-logout:hover{
+        color:rgb(246, 246, 248);
+        background-color:rgb(235, 49, 7);
+    }
