@@ -17,6 +17,7 @@ import MainRouter from './ReactRouter/MainRouter';
 import UseStateStudy from './Hooks/UseStateStudy';
 import UseEffectStudy from './Hooks/UseEffectStudy';
 import UseRefStudy from './Hooks/UseRefStudy';
+import SpreadOperatorStudy from './SpreadOperator/SpreadOperatorStudy';
 
 function App() {
 
@@ -49,6 +50,7 @@ function App() {
       <UseStateStudy/>
       <UseEffectStudy/>
       <UseRefStudy/>
+      <SpreadOperatorStudy/>
     </>
   );
 }
